@@ -1,6 +1,6 @@
 # Daeeun Ko (acisliver)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=450&section=header&text=Acisliver&fontSize=90&desc=Backend%20Engineer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Acisliver&fontAlignY=40&fontSize=90&desc=Backend%20Engineer">
 </div>
 
 
