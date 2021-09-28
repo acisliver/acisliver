@@ -1,4 +1,3 @@
-# Daeeun Ko (acisliver)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=300&section=header&text=Acisliver&fontAlignY=40&fontSize=90&fontColor=ffffff&desc=Backend%20Engineer">
 </div>
@@ -18,3 +17,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acisliver&layout=compact&theme=vue&card_width=445">
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=300&section=footer">
+</div>
