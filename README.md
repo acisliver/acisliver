@@ -40,5 +40,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=footer">
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mool1717)](https://solved.ac/mool1717)
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mool1717)](https://solved.ac/mool1717">
+</div>
