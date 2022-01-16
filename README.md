@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=7273322@naver.com)](https://solved.ac/7273322@naver.com">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=7273322)](https://solved.ac/7273322">
 </div>
