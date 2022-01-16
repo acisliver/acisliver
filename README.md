@@ -37,7 +37,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acisliver&layout=compact&theme=vue&card_width=445">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mool1717)](https://solved.ac/mool1717/)
+<p align="center">
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mool1717">
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=footer">
