@@ -29,13 +29,7 @@
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=AmazonAWS&logoColor=white">
 </p>
 <br>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acisliver&show_icons=true&theme=vue">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acisliver&layout=compact&theme=vue&card_width=445">
-</p>
+ 
 
 <p align="center">
   <a href="https://solved.ac/mool1717/">
