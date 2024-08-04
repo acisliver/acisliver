@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=flat&logo=GO&logoColor=white">
+  <img src="https://img.shields.io/badge/GIN-008ECF?style=flat&logo=GIN&logoColor=white">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"> 
